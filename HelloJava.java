@@ -8,6 +8,6 @@ public class HelloJava
 	    {
 	            //输出字符串
 		            System.out.println("你好 Java");
-			    System.out.println("test ++++++");
+			    System.out.println("test +++");
             }
 }
